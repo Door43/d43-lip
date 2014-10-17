@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lip:home|Door43 (lip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lip|d43-lip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lip/archive/master.zip|d43-lip.zip]]
+
+**Recent Changes**
+{{changes>ns = lip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lip|Ethnologue data]]
+
